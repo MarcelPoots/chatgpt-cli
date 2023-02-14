@@ -1,0 +1,11 @@
+POST https://api.openai.com/v1/completions
+Content-Type: application/json
+Authorization: Bearer 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
+
+{
+  "model": "text-davinci-001",
+  "prompt": "How many kilometers are in a mile?",
+  "temperature": 1,
+  "max_tokens": 100
+}
+
