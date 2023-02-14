@@ -2,6 +2,8 @@ Inspired by a video of Dan Vega I followed along his video and create this cli t
 
 Get your own key at: https://platform.openai.com/account/api-keys
 
+See documentation: https://platform.openai.com/docs/api-reference/completions
+
 This code makes this request possible:
 
 POST https://api.openai.com/v1/completions
