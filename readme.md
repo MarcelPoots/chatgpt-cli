@@ -8,6 +8,7 @@ This code makes this request possible:
 
 POST https://api.openai.com/v1/completions
 Content-Type: application/json
+
 Authorization: Bearer YOUR_KEY_HERE
 
 {
