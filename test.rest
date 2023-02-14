@@ -1,6 +1,6 @@
 POST https://api.openai.com/v1/completions
 Content-Type: application/json
-Authorization: Bearer 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
+Authorization: Bearer your_api_key
 
 {
   "model": "text-davinci-001",
