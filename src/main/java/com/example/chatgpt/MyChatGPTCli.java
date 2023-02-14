@@ -17,7 +17,7 @@ public class MyChatGPTCli {
     public static void main(String[] args) throws IOException, InterruptedException {
         Dotenv dotenv = Dotenv.load();
         String prompt;
-        if(args.length > 0) {
+        if (args.length > 0) {
             prompt = args[0];
         } else {
             Scanner scanner = new Scanner(System.in);
